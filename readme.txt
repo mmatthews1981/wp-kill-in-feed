@@ -15,5 +15,4 @@ This plugin gives you two new shortcodes, [killinfeed] and [addtofeed], that wil
 == Installation ==
 1. Upload WP Kill In Feed to the /wp-content/plugins/ directory.
 2. Activate the plugin through the \\\'Plugins\\\' menu in WordPress.
-3. Navigate Settings ->WP_FOAAS Settings for hints on how to construct shortcodes.
-4. Enjoy!
+3. Enjoy!
