@@ -16,3 +16,7 @@ This plugin gives you two new shortcodes, [killinfeed] and [addtofeed], that wil
 1. Upload WP Kill In Feed to the /wp-content/plugins/ directory.
 2. Activate the plugin through the \\\'Plugins\\\' menu in WordPress.
 3. Enjoy!
+
+== Changelog ==
+v1.1: removed smartquotes in shortcode addtofeed 
+v1: initial upload
